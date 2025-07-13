@@ -1,3 +1,5 @@
+--Load chinook (Database).db to https://sqliteonline.com/
+
 -- select firstname lastname from customer table and select country is USA, Brazil, France 
 select 
 	firstname AS fname, 
